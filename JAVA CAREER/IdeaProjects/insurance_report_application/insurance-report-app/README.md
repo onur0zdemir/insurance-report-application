@@ -2,8 +2,6 @@
 
 **ÖNEMLİ NOT :** Uygulamanın içinden çekilen önemli ekran görüntüleri **“*important\_file -* screenshots”** klasöründe
 mevcuttur. Projenin SQL verileri **“*important\_file - insurance\_database\_sql\_codes*“** dosyasında mevcuttur.
-Dosyaların açılmaması halinde, bütün dosyalar toplu bir şekilde **”*important\_file – backupFile* “** .docx uzantılı
-dosyada yedeklenmiştir.
 
 **Proje Açıklaması**
 
