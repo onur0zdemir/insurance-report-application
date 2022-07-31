@@ -1,7 +1,7 @@
 ﻿**Anadolu Bank Java Bootcamp Bitirme Projesi**
 
-**ÖNEMLİ NOT :** Uygulamanın içinden çekilen önemli ekran görüntüleri **“*important\_file -* screenshots”** klasöründe
-mevcuttur. Projenin SQL verileri **“*important\_file - insurance\_database\_sql\_codes*“** dosyasında mevcuttur.
+**ÖNEMLİ NOT :** Uygulamanın içinden çekilen önemli ekran görüntüleri **“*important\_files -* screenshots”** klasöründe
+mevcuttur. Projenin SQL verileri **“*important\_files - insurance\_database\_sql\_codes*“** dosyasında mevcuttur.
 
 **Proje Açıklaması**
 
