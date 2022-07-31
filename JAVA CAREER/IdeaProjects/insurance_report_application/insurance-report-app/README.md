@@ -3,6 +3,8 @@
 **ÖNEMLİ NOT :** Uygulamanın içinden çekilen önemli ekran görüntüleri **“*important\_files -* screenshots”** klasöründe
 mevcuttur. Projenin SQL verileri **“*important\_files - insurance\_database\_sql\_codes*“** dosyasında mevcuttur.
 
+ER diagramı ve Usecase dökümanı da documents klasörü içindedir.
+
 **Proje Açıklaması**
 
 Anadolu Bank Java Bootcamp Bitirme Projesi Proje Açıklaması 2030 yılında, siz bir Sigorta Şirketinde Kıdemli Yazılım
