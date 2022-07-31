@@ -1,0 +1,26 @@
+column-names-displayed:
+  policy-columns:
+    - "poliçe numarası"
+    - "poliçe tipi"
+    - "acente numarası"
+    - "durum"
+    - "bitiş tarihi"
+  customer-columns:
+    - "müşteri numarası"
+    - "isim"
+    - "soyisim"
+    - "şehir"
+    - "email"
+    - "doğum tarihi"
+  payment-columns:
+    - "işlem numarası"
+    - "ödeme tipi"
+    - "poliçe numarası"
+    - "miktar"
+    - "ödeme tarihi"
+  insurance-agency-columns:
+    - "acente numarası"
+    - "şirket ismi"
+  customer-policy-columns:
+    - "müşteri numarası"
+    - "poliçe numarası"
